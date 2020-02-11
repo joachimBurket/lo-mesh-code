@@ -1,0 +1,63 @@
+### IDE ###
+.idea/
+target/
+.settings
+.project
+
+
+### CMake ###
+CMakeLists.txt.user
+CMakeCache.txt
+CMakeFiles
+CMakeScripts
+Testing
+Makefile
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+_deps
+cmake-build-debug/
+
+
+### C files ###
+*.order
+*.symvers
+*.cmd
+*.o
+*.gch
+*.d
+*.mod.c
+
+
+### Texstudio ###
+*.txss
+*.out
+*.toc
+*.log
+*.lof
+*.ist
+*.glo
+*.aux
+*.synctex.gz
+*.bak
+*.acn
+*.acr
+*.alg
+*.bbl
+*.blg
+*.fls
+*.xml
+*.lot
+*.fdb_latexmk
+*-blx.bib
+*.hst
+*.run.xml
+*.ver
+_minted-*/
+
+
+### Tmp files ###
+.~lock.*
+*.swp
+.tmp_versions/
